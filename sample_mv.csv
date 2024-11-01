@@ -1,0 +1,101 @@
+﻿MOVIE_ID,MOVIE_NAME,OPEN_DATE,NTY_NAME,GENRE_NAME,MOVIE_IMG
+1,아바타: 물의 길,20221214,미국,액션,https://www.naver.com
+2,더 퍼스트 슬램덩크,20230104,일본,애니메이션,https://www.naver.com
+3,영웅,20221221,한국,드라마,https://www.naver.com
+4,교섭,20230118,한국,드라마,https://www.naver.com
+5,장화신은 고양이: 끝내주는 모험,20230104,미국,애니메이션,https://www.naver.com
+6,유령,20230118,한국,액션,https://www.naver.com
+7,스위치,20230104,한국,기타,https://www.naver.com
+8,상견니,20230125,대만,드라마,https://www.naver.com
+9,메간,20230125,미국,공포(호러),https://www.naver.com
+10,올빼미,20221123,한국,스릴러,https://www.naver.com
+11,캐리와 슈퍼콜라,20230118,한국,애니메이션,https://www.naver.com
+12,신비아파트 극장판 차원도깨비와 7개의 세계,20221214,한국,애니메이션,https://www.naver.com
+13,젠틀맨,20221228,한국,범죄,https://www.naver.com
+14,라일 라일 크로커다일,20230118,미국,가족,https://www.naver.com
+15,눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀,20221222,기타,애니메이션,https://www.naver.com
+16,극장판 뽀로로와 친구들: 바이러스를 없애줘!,20221201,한국,애니메이션,https://www.naver.com
+17,프린스 챠밍,20230111,미국,애니메이션,https://www.naver.com
+18,천룡팔부: 교봉전,20230125,홍콩,액션,https://www.naver.com
+19,돌핀보이,20230125,독일,애니메이션,https://www.naver.com
+20,몬스터 신부: 101번째 프로포즈,20221228,헝가리,애니메이션,https://www.naver.com
+21,핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전,20221221,한국,애니메이션,https://www.naver.com
+22,극장판 파워레인저 캡틴포스: 지구를 위한 싸움,20230119,일본,액션,https://www.naver.com
+23,시간을 꿈꾸는 소녀,20230111,한국,다큐멘터리,https://www.naver.com
+24,문맨,20230111,중국,드라마,https://www.naver.com
+25,엄마의 땅: 그리샤와 숲의 주인,20230125,한국,애니메이션,https://www.naver.com
+26,페르시아어 수업,20221215,러시아,드라마,https://www.naver.com
+27,탄생,20221130,한국,드라마,https://www.naver.com
+28,유랑의 달,20230118,일본,드라마,https://www.naver.com
+29,에브리씽 에브리웨어 올 앳 원스,20221012,미국,액션,https://www.naver.com
+30,메모리아,20221229,기타,드라마,https://www.naver.com
+31,마리앙투아네트,20230102,한국,뮤지컬,https://www.naver.com
+32,뮤지컬 레드북,20230125,한국,뮤지컬,https://www.naver.com
+33,본즈 앤 올,20221130,미국,공포(호러),https://www.naver.com
+34,라인,20230125,스위스,드라마,https://www.naver.com
+35,위너 2022 콘서트 더 서클 더 무비,20230125,한국,공연,https://www.naver.com
+36,가가린,20221222,프랑스,SF,https://www.naver.com
+37,원피스 필름 레드,20221130,일본,애니메이션,https://www.naver.com
+38,패닉 런,20230104,미국,스릴러,https://www.naver.com
+39,"열여덟, 어른이 되는 나이",20230125,한국,드라마,https://www.naver.com
+40,코르사주,20221221,프랑스,드라마,https://www.naver.com
+41,이태석,20221229,한국,다큐멘터리,https://www.naver.com
+42,새비지 맨,20230126,미국,액션,https://www.naver.com
+43,크레이지 컴페티션,20221228,스페인,드라마,https://www.naver.com
+44,강남좀비,20230105,한국,드라마,https://www.naver.com
+45,헤어질 결심,20220629,한국,미스터리,https://www.naver.com
+46,양자경의 더 모든 날 모든 순간,20221123,미국,액션,https://www.naver.com
+47,처음 꽃향기를 만난 순간,20230104,대만,드라마,https://www.naver.com
+48,프로메어,20221020,일본,애니메이션,https://www.naver.com
+49,나는 마을 방과후 교사입니다,20230111,한국,다큐멘터리,https://www.naver.com
+50,울브스 오브 워,20230126,영국,액션,https://www.naver.com
+51,프레이 포 더 데블,20221207,미국,미스터리,https://www.naver.com
+52,극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교,20220928,일본,애니메이션,https://www.naver.com
+53,EBS친구들 씽씽 댄스파티,20220920,한국,가족,https://www.naver.com
+54,뿌까의 짜장면파티,20220704,한국,기타,https://www.naver.com
+55,겨울 이야기,20230118,한국,드라마,https://www.naver.com
+56,뮤지컬 배니싱,20230103,한국,뮤지컬,https://www.naver.com
+57,벤데타: 복수의 시간,20230120,캐나다,액션,https://www.naver.com
+58,극장판 주술회전 0,20220217,일본,애니메이션,https://www.naver.com
+59,뮤지컬 번지점프를 하다,20230102,한국,뮤지컬,https://www.naver.com
+60,로보카폴리 안전교실 교통편,20220919,한국,애니메이션,https://www.naver.com
+61,데시벨,20221116,한국,액션,https://www.naver.com
+62,더 메뉴,20221207,미국,스릴러,https://www.naver.com
+63,새를 사랑한 화가,20230125,프랑스,다큐멘터리,https://www.naver.com
+64,빌리 아일리시: 라이브 앳 디 오투 (확장판),20230127,미국,공연,https://www.naver.com
+65,라스트필름,20221229,한국,드라마,https://www.naver.com
+66,매복,20230112,미국,액션,https://www.naver.com
+67,압꾸정,20221130,한국,코미디,https://www.naver.com
+68,스트레인지 월드,20221123,미국,애니메이션,https://www.naver.com
+69,희수,20221215,한국,드라마,https://www.naver.com
+70,탑,20221103,한국,드라마,https://www.naver.com
+71,이스터 선데이,20221228,미국,코미디,https://www.naver.com
+72,창밖은 겨울,20221124,한국,드라마,https://www.naver.com
+73,블랙 팬서: 와칸다 포에버,20221109,미국,액션,https://www.naver.com
+74,머슴바울,20221124,한국,사극,https://www.naver.com
+75,트루 마더스,20230101,일본,드라마,https://www.naver.com
+76,극장판 가면라이더: 세이버X젠카이저 슈퍼히어로 전기,20221201,일본,액션,https://www.naver.com
+77,만인의 연인,20221201,한국,드라마,https://www.naver.com
+78,아포리아,20230126,한국,드라마,https://www.naver.com
+79,혜옥이,20221208,한국,드라마,https://www.naver.com
+80,스페이스 키드: 우주에서 살아남기,20221207,프랑스,애니메이션,https://www.naver.com
+81,프리 데드 오어 얼라이브,20230119,미국,액션,https://www.naver.com
+82,수프와 이데올로기,20221020,한국,다큐멘터리,https://www.naver.com
+83,지옥의 화원,20221215,일본,코미디,https://www.naver.com
+84,나나,20221215,인도네시아,드라마,https://www.naver.com
+85,견왕: 이누오,20221208,일본,애니메이션,https://www.naver.com
+86,성적표의 김민영,20220908,한국,드라마,https://www.naver.com
+87,그녀가 말했다,20221130,미국,드라마,https://www.naver.com
+88,애프터 미투,20221006,한국,다큐멘터리,https://www.naver.com
+89,리멤버,20221026,한국,드라마,https://www.naver.com
+90,기예르모 델토로의 피노키오,20221123,미국,애니메이션,https://www.naver.com
+91,견자단의 용호무사,20230126,중국,다큐멘터리,https://www.naver.com
+92,헤이지니&럭키강이 비밀의 문,20221201,한국,공연,https://www.naver.com
+93,디모: 벚꽃의 소리,20221201,일본,애니메이션,https://www.naver.com
+94,코다,20210831,프랑스,드라마,https://www.naver.com
+95,인생은 아름다워,20220928,한국,뮤지컬,https://www.naver.com
+96,폴: 600미터,20221116,영국,스릴러,https://www.naver.com
+97,유포자들,20221123,한국,범죄,https://www.naver.com
+98,동행: 10년의 발걸음,20221201,한국,다큐멘터리,https://www.naver.com
+99,우수,20221124,한국,드라마,https://www.naver.com
+100,생각 그런거 없는데요,20230125,한국,드라마,https://www.naver.com
